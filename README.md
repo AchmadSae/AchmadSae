@@ -4,10 +4,10 @@ Perkenalkan nama saya **I Putu Agestya Pramana**.
 
 Saya seorang **Mahasiswa Informatika** di [Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id//).
 
-Saya sedang mempelajari Front-End Web Developer dengan dibekali 
-
+Saya sedang mempelajari Front-End Web Developer dengan dibekali \
 -[sertifikasi Belajar Dasar Pemrograman Web dari Dicoding](https://www.dicoding.com/certificates/EYX479V56XDL).\
--[sertifikasi Belajar Membuat Front-End Web untuk Pemula dari Dicoding](https://www.dicoding.com/certificates/98XWKG5KWXM3).
+-[sertifikasi Belajar Membuat Front-End Web untuk Pemula dari Dicoding](https://www.dicoding.com/certificates/98XWKG5KWXM3).\
+-[sertifikasi Belajar Dasar Git dengan GitHub dari Dicoding](https://www.dicoding.com/certificates/98XWKVRDWXM3).
 
 Saya juga sedang persipan untuk menjadi Full Stack Web Developer
 
