@@ -1,5 +1,17 @@
-### Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **I Putu Agestya Pramana**.
+
+Saya seorang **Mahasiswa Informatika** di [Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id//).
+
+Saya sedang mempelajari Front-End Web Developer dengan dibekali 
+
+-[sertifikasi Belajar Dasar Pemrograman Web dari Dicoding](https://www.dicoding.com/certificates/EYX479V56XDL).\
+-[sertifikasi Belajar Membuat Front-End Web untuk Pemula dari Dicoding](https://www.dicoding.com/certificates/98XWKG5KWXM3).
+
+Saya juga sedang persipan untuk menjadi Full Stack Web Developer
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/i-putu-agestya-pramana)ku ya.
 <!--
 **captbay/captbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
