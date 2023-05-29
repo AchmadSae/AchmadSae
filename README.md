@@ -11,7 +11,7 @@ Saya sedang mempelajari Front-End Web Developer dengan dibekali \
 
 Saya juga sedang persipan untuk menjadi Full Stack Developer
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https:://www.linkedin.com/in/i-putu-agestya-pramana)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/i-putu-agestya-pramana/)ku ya.
 
 <p align="left">
 <a href="https://github.com/captbay">
