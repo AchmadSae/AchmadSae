@@ -9,7 +9,7 @@ Saya sedang mempelajari Front-End Web Developer dengan dibekali \
 -[sertifikasi Belajar Membuat Front-End Web untuk Pemula dari Dicoding](https://www.dicoding.com/certificates/98XWKG5KWXM3).\
 -[sertifikasi Belajar Dasar Git dengan GitHub dari Dicoding](https://www.dicoding.com/certificates/98XWKVRDWXM3).
 
-Saya juga sedang persipan untuk menjadi Full Stack Web Developer
+Saya juga sedang persipan untuk menjadi Full Stack Developer
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/i-putu-agestya-pramana)ku ya.
 
