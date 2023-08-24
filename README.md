@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Gofit Project(A Sport Studio Apps & Website)<br>👯 I’m looking to collaborate on Website Project / Android Based App<br>🌱 I’m currently learning Full Stack Dev<br>💬 Ask me about anything
+🔭 I’m currently intern at PT Telkom Indonesia ( Digital Amoeba )<br>👯 I’m looking to collaborate on Website Project / Android Based App<br>🌱 I’m currently learning Full Stack Dev<br>💬 Ask me about anything
 
 # My Certificate
 -[sertifikasi Belajar Dasar Pemrograman Web dari Dicoding](https://www.dicoding.com/certificates/EYX479V56XDL).\
