@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Hands Enterprise**
 
-- 🌱 I’m currently learning **Kafka, Angular**
+- 🌱 I’m currently learning **Vue and Figma**
 
 - 👨‍💻 All of my projects are available at [kasae.com](kasae.com)
 
