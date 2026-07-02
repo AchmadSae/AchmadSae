@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue and Figma**
 
-- 👨‍💻 All of my projects are available at [kasae.com](kasae.com)
+- 👨‍💻 All of my projects are available at https://www.saeka.space/#
 
 - 📫 How to reach me **sssnerv@gmail.com**
 
